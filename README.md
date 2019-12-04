@@ -1,2 +1,37 @@
-# yimispace
-岁月静好，编织一串时光的风铃挂在回忆的长廊，且听风吟，静语流年起伏的故事。季节更迭，花开了又落，落了又开，即便花开荼靡，也在一瓣花香里，读出清韵的诗行，拈花为墨，把一次次惊喜与感动渲染成画，挂在岁月门楣上，闲来回味欣赏。把那些感动岁月的锦绣年华，那些初见的美丽，纯净的情怀，以手工的姿态珍藏，小心翼翼地放入百宝箱中。每一次手工，是动手的实践，更是心灵的修行。每一件手工艺品都有着它的生命，让暖暖回忆在手工艺品的生命里沉淀，漫卷时光的韵脚，清雅成诗，静读光阴的脉络，为手工艺品赋予灵魂。这，便是手工的意义，永恒的宝藏！     待某天开启宝箱时，那百宝箱中的灵魂便犹如盛放在心底的一朵朵姹紫嫣红，又悄悄的落于时间隧道里，轻染如烟往事，梳理旧年的点点滴滴。怀念着那一山一水，那年，那月，那一天，如同开在时光房檐上的花朵，开成一树繁华，一如莺歌燕舞，繁花似锦，不求最美，但愿最真！
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/YimiYimi/yimispace/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YimiYimi/yimispace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
